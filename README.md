@@ -55,7 +55,7 @@ Alternatively, you can install the core package and individual plugins.
 | [Core](https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky-Core)	| `pip install relic-tool-chunky-core`	|					| `relic.chunky.core`	|
 | [V1](https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky-V1)		| `pip install relic-tool-chunky-v1`	|					| `relic.chunky.v1`		|
 | [V3](https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky-V3)		| `pip install relic-tool-chunky-v3`	|					| `relic.chunky.v3`		|
-| [V4](https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky-V4)		| `pip install relic-tool-chunky-v4`	|					| `relic.chunky.v4`		|
+| [V4](https://github.com/MAK-Relic-Tool/Chunky-V4)		| `pip install relic-tool-chunky-v4`	|					| `relic.chunky.v4`		|
 
 # Submitting An Issue
 Please submit any feature requests, bugs, or other issues to the [Issue Tracker](https://github.com/MAK-Relic-Tool/Issue-Tracker/issues).
