@@ -1,3 +1,4 @@
+
 # Mak Relic Tool
 A collection of python libraries which aims to cover Relic's proprietary UCS / SGA / Relic Chunky formats, as well as decoding their asset formats.
 Currently, UCS (language files), SGA (game archives) and the Chunky format are covered across the various plugins and packages listed below.
@@ -5,6 +6,10 @@ Currently, UCS (language files), SGA (game archives) and the Chunky format are c
 Please submit any feature requests, bugs, or other issues to the [Issue Tracker](https://github.com/MAK-Relic-Tool/Issue-Tracker/issues).
 
 
+# Command Line Interface
+Please see this [guide](https://github.com/MAK-Relic-Tool/Guides/blob/main/command-line-interface.md) for using these libraries as a Command Line Interface.
+
+# Libraries
 ## Relic Tool
 [Relic Tool](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA) is an all in one package that contains all plugins to handle UCS / SGA / Chunky files.
 
