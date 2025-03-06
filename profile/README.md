@@ -8,9 +8,9 @@ Please submit any feature requests, bugs, or other issues to the [Issue Tracker]
 # Easy Install
 For a quick an easy install to work with most aspects of Dawn of War I
 ```
-pip install relic-tool-sga-v2 relic-tool-chunky-v1 relic-tool-ucs
+pip install relic-tool-sga-v2
 ```
-Will install all required libraries to unpack SGA files, unpack (but not read or convert) Relic Chunky files, and interact with UCS translation files.
+Will install all required libraries to unpack SGA files.
 
 
 # Libraries
