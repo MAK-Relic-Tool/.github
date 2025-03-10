@@ -15,7 +15,7 @@ Will install all required libraries to unpack SGA files.
 
 # Libraries
 ## Relic Tool
-[Relic Tool](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA) is an all in one package that contains all plugins to handle UCS / SGA / Chunky files.
+[Relic Tool](https://github.com/MAK-Relic-Tool/Relic-Tool) is an all in one package that contains all plugins to handle UCS / SGA / Chunky files.
 
 SGA, Chunky, and UCS packages can be installed individual after installing the Relic-Tool-Core.
 
