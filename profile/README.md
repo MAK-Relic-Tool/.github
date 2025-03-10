@@ -29,7 +29,7 @@ SGA, Chunky, and UCS packages can be installed individual after installing the R
 
 
 ## UCS
-[Relic Tool UCS](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA) is a package which handles reading language and translation files.
+[Relic Tool UCS](https://github.com/MAK-Relic-Tool/Relic-Tool-UCS) is a package which handles reading language and translation files.
 
 There are currently no plugins required for UCS files, the package should handle files from all relic games.
 
