@@ -35,7 +35,7 @@ There are currently no plugins required for UCS files, the package should handle
 
 | Library															| Install							| Games 	| Package 		|
 | ------- 															| -------							| ---------	| --------		|
-| [All-In-1](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA)		| `pip install relic-tool-ucs`		| 			| `relic.ucs`	| 
+| [All-In-1](https://github.com/MAK-Relic-Tool/Relic-Tool-UCS)		| `pip install relic-tool-ucs`		| 			| `relic.ucs`	| 
 
 
 ## SGA 
