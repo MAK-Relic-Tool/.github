@@ -8,7 +8,7 @@ Please submit any feature requests, bugs, or other issues to the [Issue Tracker]
 # Easy Install
 For a quick an easy install to work with most aspects of Dawn of War I
 ```
-pip install relic-tool-sga-v2
+pip install relic-tool-sga
 ```
 Will install all required libraries to unpack SGA files.
 
@@ -45,13 +45,14 @@ Alternatively, you can install the core package and individual plugins.
 
 | Library															| Install							| Games 				| Package			|
 | ------- 															| -------							| ----- 				| ------			|
-| [All-In-1](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA)		| `pip install relic-tool-sga[all]`		| **See Below**			| `relic.sga`		| 
+| [All-In-1](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA)		| `pip install relic-tool-sga`		| **See Below**			| `relic.sga`		| 
 | [Core](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA-Core)		| `pip install relic-tool-sga-core`	| 						| `relic.sga.core`	|
 | [V2](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA-V2)			| `pip install relic-tool-sga-v2`	| Dawn Of War I <br/> Impossible Creatures		| `relic.sga.v2`	|
-| [V5 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA-V5)			| `pip install relic-tool-sga-v5`	| Dawn Of War II 		| `relic.sga.v5`	|
-| [V7 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA-V7)			| `pip install relic-tool-sga-v7`	| Company Of Heroes 2	| `relic.sga.v7`	|
-| [V9 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA-V9)			| `pip install relic-tool-sga-v9`	| Dawn Of War III 		| `relic.sga.v9`	|
-| [V10 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/SGA-V10)					| `pip install relic-tool-sga-v10`	| Age Of Empires 4		| `relic.sga.v10`	|
+| ------- 															| -------							| ----- 				| ------			|
+| [V5 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA-V5)			| 	| Dawn Of War II 		| `relic.sga.v5`	|
+| [V7 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA-V7)			| 	| Company Of Heroes 2	| `relic.sga.v7`	|
+| [V9 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA-V9)			| 	| Dawn Of War III 		| `relic.sga.v9`	|
+| [V10 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/SGA-V10)					| 	| Age Of Empires 4		| `relic.sga.v10`	|
 
 ## Relic Chunky
 [Relic Tool Chunky](https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky) is a single package which contains all core files & plugins.
@@ -63,8 +64,9 @@ Alternatively, you can install the core package and individual plugins.
 | [All-In-1](https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky)	| `pip install relic-tool-chunky`		| **See Below**		| `relic.chunky`		|
 | [Core](https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky-Core)	| `pip install relic-tool-chunky-core`	|					| `relic.chunky.core`	|
 | [V1](https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky-V1)		| `pip install relic-tool-chunky-v1`	|	Dawn Of War I				| `relic.chunky.v1`		|
-| [V3 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky-V3)		| `pip install relic-tool-chunky-v3`	|					| `relic.chunky.v3`		|
-| [V4 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/Chunky-V4)		| `pip install relic-tool-chunky-v4`	|					| `relic.chunky.v4`		|
+| ------- 															| -------								| ----- 			| ------				|
+| [V3 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/Relic-Tool-Chunky-V3)		| 	|					| `relic.chunky.v3`		|
+| [V4 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/Chunky-V4)		| |					| `relic.chunky.v4`		|
 
 # Submitting An Issue
 Please submit any feature requests, bugs, or other issues to the [Issue Tracker](https://github.com/MAK-Relic-Tool/Issue-Tracker/issues).
