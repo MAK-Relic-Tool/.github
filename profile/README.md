@@ -45,7 +45,7 @@ Alternatively, you can install the core package and individual plugins.
 
 | Library															| Install							| Games 				| Package			|
 | ------- 															| -------							| ----- 				| ------			|
-| [All-In-1](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA)		| `pip install relic-tool-sga`		| **See Below**			| `relic.sga`		| 
+| [All-In-1](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA)		| `pip install relic-tool-sga[all]`		| **See Below**			| `relic.sga`		| 
 | [Core](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA-Core)		| `pip install relic-tool-sga-core`	| 						| `relic.sga.core`	|
 | [V2](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA-V2)			| `pip install relic-tool-sga-v2`	| Dawn Of War I <br/> Impossible Creatures		| `relic.sga.v2`	|
 | [V5 (No Longer Mantained)](https://github.com/MAK-Relic-Tool/Relic-Tool-SGA-V5)			| `pip install relic-tool-sga-v5`	| Dawn Of War II 		| `relic.sga.v5`	|
